@@ -53,7 +53,7 @@ Don't hesitate to ping me🤝. If you are interested in discussing this further,
 <tr>
 	<td><img src = "https://skillicons.dev/icons?i=sqlite&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=postman,supabase&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=c,cpp,py,zig&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=c,py,zig&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=ae,blender,godot,npm,obsidian,ps,pr,sketchup,linux&theme=dark"></td>
 </tr>
 </table>
