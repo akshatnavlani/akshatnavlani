@@ -5,7 +5,7 @@ or use it. It helps me a lot.
 
 # Hi, I am <a href = "https://linkedin.com/in/akshat-navlani">Akshat</a>. Nice to see you here 👋
 <b>A 18yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
-I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
+I am a passionate self-learner and an web-dev enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
 
 
 <a href="https://app.daily.dev/akshatnavlani"><img align="right" src="https://api.daily.dev/devcards/v2/KX2DqfSRBjsmfAACB0xpQ.png?r=cze" width="250" alt="Akshat Navlani's Dev Card"/></a>
