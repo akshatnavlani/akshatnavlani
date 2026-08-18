@@ -4,7 +4,7 @@ or use it. It helps me a lot.
 -->
 
 # Hi, I am <a href = "https://linkedin.com/in/akshat-navlani">Akshat</a>. Nice to see you here 👋
-<b>A 18yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
+<b>A 20yo, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu)</b><br>
 I am a passionate self-learner and an web-dev enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
 
 
